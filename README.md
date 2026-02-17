@@ -28,5 +28,4 @@ Projeto desenvolvido em Java com o objetivo de simular um sistema simples de lot
 
 ---
 
-## 📂 Estrutura do Projeto
 
